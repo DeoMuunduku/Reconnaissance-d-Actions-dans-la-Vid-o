@@ -3,6 +3,8 @@
 # Downloads the UCF-101 dataset:http://crcv.ucf.edu/data/UCF101/UCF101.rar
 # https://www.crcv.ucf.edu/data/UCF101/UCF101TrainTestSplits-RecognitionTask.zip
 
+deo...
+
 
 Ce projet vise à développer un système de reconnaissance  de similarite d'actions dans les vidéos en utilisant des réseaux de neurones convolutifs avec des couches LSTM et des mécanismes d'attention. Les scripts fournis permettent de former un modèle sur le jeu de données UCF-101 et d'évaluer ses performances.
 
@@ -23,10 +25,3 @@ Entraînement du modèle :
 Utilisez le script entrainement.py pour entraîner le modèle. Vous pouvez spécifier différents paramètres tels que le chemin du jeu de données, le nombre d'époques, la taille du batch, etc.
 Test du modèle :
 
-Après l'entraînement, utilisez le script verification.py pour tester le modèle sur l'ensemble de test.
-Démonstration de la détection de chute :
-
-Utilisez le script demo.py pour effectuer une démonstration de la détection de chute en spécifiant le chemin de la vidéo à tester.
-Remarques supplémentaires
-Les scripts peuvent être personnalisés en fonction de vos besoins, par exemple en ajustant les hyperparamètres du modèle ou en modifiant les chemins des fichiers.
-Pour obtenir de meilleurs résultats, vous pouvez expérimenter avec différents modèles, techniques de prétraitement des données, etc....
