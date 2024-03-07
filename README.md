@@ -1,4 +1,4 @@
-# Reconnaissance-d-Actions-dans-la-VideoReconnaissance d'actions humaines dans les vidéos
+
 
 # Downloads the UCF-101 dataset:http://crcv.ucf.edu/data/UCF101/UCF101.rar
 # https://www.crcv.ucf.edu/data/UCF101/UCF101TrainTestSplits-RecognitionTask.zip
